@@ -1,0 +1,41 @@
+[
+    {
+        "paymentNo": "PAY-001",
+        "projectName": "ASB",
+        "customerNo": "CUS-001",
+        "invoiceNo": "INV-001",
+        "projectNo": "PRJ-001",
+        "paymentDate": "2026-10-20",
+        "amount": 77760,
+        "currency": "MYR",
+        "paymentMethod": "Online Transfer",
+        "referenceNo": "TXN-CB-001",
+        "notes": "Confirmation payment"
+    },
+    {
+        "paymentNo": "PAY-002",
+        "projectName": "AISN",
+        "customerNo": "CUS-002",
+        "invoiceNo": "INV-002",
+        "projectNo": "PRJ-002",
+        "paymentDate": "2026-10-18",
+        "amount": 54000,
+        "currency": "MYR",
+        "paymentMethod": "Online Transfer",
+        "referenceNo": "TXN-AISN-001",
+        "notes": "Partial payment"
+    },
+    {
+        "paymentNo": "PAY-003",
+        "projectName": "AIMS",
+        "customerNo": "CUS-003",
+        "invoiceNo": "INV-003",
+        "projectNo": "PRJ-003",
+        "paymentDate": "2026-11-10",
+        "amount": 37800,
+        "currency": "MYR",
+        "paymentMethod": "Online Transfer",
+        "referenceNo": "TXN-ETIKA-001",
+        "notes": "Go-live payment"
+    }
+]

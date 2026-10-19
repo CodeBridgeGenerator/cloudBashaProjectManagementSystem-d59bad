@@ -1,0 +1,27 @@
+[
+    {
+        "contactName": "Alex Morgan",
+        "company": "ASB",
+        "position": "Technology Manager",
+        "email": "alex@codebridge.example",
+        "phone": "+1 555 0201",
+        "department": "Technology",
+        "primaryContact": true
+    },
+    {
+        "contactName": "Jamie Wilson",
+        "position": "Finance Director",
+        "email": "jamie@aisnfinance.example",
+        "phone": "+1 555 0202",
+        "department": "Finance",
+        "primaryContact": true
+    },
+    {
+        "contactName": "Sam Brown",
+        "position": "Customer Service Manager",
+        "email": "sam@etika.example",
+        "phone": "+1 555 0203",
+        "department": "Customer Service",
+        "primaryContact": true
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "renewalNo": "REN-001",
+        "renewalType": "S&M",
+        "referenceNo": "SM-003",
+        "customerNo": "CUS-003",
+        "projectNo": "PRJ-003",
+        "currentEndDate": "2027-11-30",
+        "renewalDate": "2027-12-01",
+        "renewalAmount": 48600,
+        "currency": "MYR",
+        "status": "Upcoming",
+        "assignedTo": "Sales Manager",
+        "notes": "Renew support contract"
+    },
+    {
+        "renewalNo": "REN-002",
+        "renewalType": "Subscription",
+        "referenceNo": "SUB-001",
+        "customerNo": "CUS-001",
+        "projectNo": "PRJ-001",
+        "currentEndDate": "2027-10-14",
+        "renewalDate": "2027-10-15",
+        "renewalAmount": 9000,
+        "currency": "MYR",
+        "status": "Upcoming",
+        "assignedTo": "Sales Manager",
+        "notes": "Hosting renewal"
+    },
+    {
+        "renewalNo": "REN-003",
+        "renewalType": "Subscription",
+        "referenceNo": "SUB-002",
+        "customerNo": "CUS-002",
+        "projectNo": "PRJ-002",
+        "currentEndDate": "2027-10-09",
+        "renewalDate": "2027-10-10",
+        "renewalAmount": 12000,
+        "currency": "MYR",
+        "status": "Upcoming",
+        "assignedTo": "Sales Manager",
+        "notes": "Database renewal"
+    }
+]

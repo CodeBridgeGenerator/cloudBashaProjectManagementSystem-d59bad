@@ -1,0 +1,32 @@
+[
+    {
+        "customerNo": "CUS-001",
+        "customerName": "CodeBridge User A",
+        "email": "usera@codebridge.example",
+        "phone": "+1 555 0201",
+        "customerType": "Subscriber",
+        "productOrService": "CodeBridge",
+        "subscriptionStatus": "Active",
+        "status": "Active"
+    },
+    {
+        "customerNo": "CUS-002",
+        "customerName": "AISN User A",
+        "email": "usera@aisn.example",
+        "phone": "+1 555 0202",
+        "customerType": "Application User",
+        "productOrService": "AISN Finance",
+        "subscriptionStatus": "Active",
+        "status": "Active"
+    },
+    {
+        "customerNo": "CUS-003",
+        "customerName": "Etika User A",
+        "email": "usera@etika.example",
+        "phone": "+1 555 0203",
+        "customerType": "Application User",
+        "productOrService": "Customer Service Portal",
+        "subscriptionStatus": "Active",
+        "status": "Active"
+    }
+]

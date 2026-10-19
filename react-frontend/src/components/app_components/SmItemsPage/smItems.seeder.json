@@ -1,0 +1,35 @@
+[
+    {
+        "smNo": "SM-003",
+        "serviceName": "Maintenance And System Updates",
+        "quantity": 1,
+        "specification": "Application maintenance",
+        "costingBasis": "Percentage of project value",
+        "included": true,
+        "billingCycle": "Yearly",
+        "unitPrice": 30000,
+        "annualAmount": 30000
+    },
+    {
+        "smNo": "SM-003",
+        "serviceName": "Cloud Hosting",
+        "quantity": 1,
+        "specification": "Application server hosting",
+        "costingBasis": "Cloud provider cost",
+        "included": true,
+        "billingCycle": "Yearly",
+        "unitPrice": 9000,
+        "annualAmount": 9000
+    },
+    {
+        "smNo": "SM-003",
+        "serviceName": "Database And Backup",
+        "quantity": 1,
+        "specification": "Managed database with backup",
+        "costingBasis": "Cloud database cost",
+        "included": true,
+        "billingCycle": "Monthly",
+        "unitPrice": 500,
+        "annualAmount": 6000
+    }
+]

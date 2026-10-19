@@ -1,0 +1,34 @@
+[
+    {
+        "referenceType": "Lead",
+        "referenceNo": "LD-001",
+        "assignedTo": "Sales Manager",
+        "followUpType": "Call",
+        "subject": "Confirm proposal scope",
+        "followUpDate": "2026-10-15",
+        "status": "Pending",
+        "notes": "Confirm Phase 1 requirements"
+    },
+    {
+        "referenceType": "Quotation",
+        "referenceNo": "QOT-002",
+        "customerNo": "CUS-002",
+        "assignedTo": "Sales Manager",
+        "followUpType": "Email",
+        "subject": "Quotation approval follow up",
+        "followUpDate": "2026-10-16",
+        "status": "Pending",
+        "notes": "Awaiting customer confirmation"
+    },
+    {
+        "referenceType": "Invoice",
+        "referenceNo": "INV-003",
+        "customerNo": "CUS-003",
+        "assignedTo": "Finance",
+        "followUpType": "Payment",
+        "subject": "Invoice payment follow up",
+        "followUpDate": "2026-10-20",
+        "status": "Pending",
+        "notes": "Payment due this month"
+    }
+]

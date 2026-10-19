@@ -1,0 +1,27 @@
+[
+    {
+        "projectNo": "PRJ-001",
+        "teamMember": "Developer A",
+        "role": "Full Stack Developer",
+        "allocation": 60,
+        "startDate": "2026-10-15",
+        "status": "Active"
+    },
+    {
+        "projectNo": "PRJ-002",
+        "teamMember": "Developer B",
+        "role": "Backend Developer",
+        "allocation": 80,
+        "startDate": "2026-10-10",
+        "status": "Active"
+    },
+    {
+        "projectNo": "PRJ-003",
+        "teamMember": "Developer C",
+        "role": "Frontend Developer",
+        "allocation": 50,
+        "startDate": "2026-10-10",
+        "endDate": "2026-11-30",
+        "status": "Active"
+    }
+]

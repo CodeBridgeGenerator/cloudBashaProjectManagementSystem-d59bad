@@ -1,0 +1,38 @@
+[
+    {
+        "proposalRef": "PROP-ASB-001",
+        "leadNo": "LD-001",
+        "projectTitle": "ASB Phase 1 Business Management System",
+        "proposalDate": "2026-10-10",
+        "validTillDate": "2026-12-10",
+        "scopeSummary": "Phase 1 application development and rollout",
+        "estimatedAmount": 180000,
+        "currency": "MYR",
+        "status": "Sent",
+        "generatedDoc": "http://docs.google.com/document/d/1b-NQddKmb1OfHeGf6gnFBnw5bmMpeH_mQT9GavTkEeI/edit?usp=drive_web&ouid=1166068299304975861899"
+    },
+    {
+        "proposalRef": "PROP-AISN-001",
+        "customerNo": "CUS-002",
+        "projectTitle": "AISN Finance Management System",
+        "proposalDate": "2026-09-20",
+        "validTillDate": "2026-11-20",
+        "scopeSummary": "Finance and loan management workflow",
+        "estimatedAmount": 250000,
+        "currency": "MYR",
+        "status": "Accepted",
+        "generatedDoc": "http://docs.google.com/document/d/1b-NQddKmb1OfHeGf6gnFBnw5bmMpeH_mQT9GavTkEeI/edit?usp=drive_web&ouid=1166068299304975861900"
+    },
+    {
+        "proposalRef": "PROP-ETIKA-001",
+        "customerNo": "CUS-003",
+        "projectTitle": "Etika Customer Service Enhancement",
+        "proposalDate": "2026-10-05",
+        "validTillDate": "2026-11-05",
+        "scopeSummary": "Customer service workflow and UX improvements",
+        "estimatedAmount": 35000,
+        "currency": "MYR",
+        "status": "Accepted",
+        "generatedDoc": "http://docs.google.com/document/d/1b-NQddKmb1OfHeGf6gnFBnw5bmMpeH_mQT9GavTkEeI/edit?usp=drive_web&ouid=1166068299304975861901"
+    }
+]

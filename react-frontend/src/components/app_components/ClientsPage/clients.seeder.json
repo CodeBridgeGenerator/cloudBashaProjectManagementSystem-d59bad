@@ -1,0 +1,41 @@
+[
+    {
+        "clientNo": "CLI-001",
+        "companyName": "CodeBridge",
+        "companyRegistrationNo": "REG-CB-001",
+        "billingAddress": "Main Office",
+        "city": "London",
+        "country": "United Kingdom",
+        "primaryContact": "Alex Morgan",
+        "email": "alex@codebridge.example",
+        "phone": "+1 555 0201",
+        "accountManager": "Sales Manager",
+        "status": "Active"
+    },
+    {
+        "clientNo": "CLI-002",
+        "companyName": "AISN Finance",
+        "companyRegistrationNo": "REG-AISN-001",
+        "billingAddress": "Finance Office",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "primaryContact": "Jamie Wilson",
+        "email": "jamie@aisnfinance.example",
+        "phone": "+1 555 0202",
+        "accountManager": "Sales Manager",
+        "status": "Active"
+    },
+    {
+        "clientNo": "CLI-003",
+        "companyName": "Etika",
+        "companyRegistrationNo": "REG-ETIKA-001",
+        "billingAddress": "Operations Office",
+        "city": "Singapore",
+        "country": "Singapore",
+        "primaryContact": "Sam Brown",
+        "email": "sam@etika.example",
+        "phone": "+1 555 0203",
+        "accountManager": "Sales Manager",
+        "status": "Active"
+    }
+]

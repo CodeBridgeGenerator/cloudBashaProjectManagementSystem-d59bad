@@ -1,0 +1,32 @@
+[
+    {
+        "invoiceNo": "INV-001",
+        "description": "ASB Phase 1 Confirmation Payment",
+        "quantity": 1,
+        "unit": "Milestone",
+        "unitPrice": 72000,
+        "discount": 0,
+        "taxRate": 8,
+        "lineAmount": 77760
+    },
+    {
+        "invoiceNo": "INV-002",
+        "description": "AISN Finance Confirmation Payment",
+        "quantity": 1,
+        "unit": "Milestone",
+        "unitPrice": 100000,
+        "discount": 0,
+        "taxRate": 8,
+        "lineAmount": 108000
+    },
+    {
+        "invoiceNo": "INV-003",
+        "description": "Etika Customer Service Go Live Payment",
+        "quantity": 1,
+        "unit": "Milestone",
+        "unitPrice": 35000,
+        "discount": 0,
+        "taxRate": 8,
+        "lineAmount": 37800
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "taskNo": "TSK-001",
+        "projectNo": "PRJ-001",
+        "taskName": "Project Dashboard",
+        "description": "Build project dashboard and status widgets",
+        "assignedTo": "Developer A",
+        "priority": "High",
+        "status": "In Progress",
+        "startDate": "2026-10-16",
+        "dueDate": "2026-10-22",
+        "estimatedHours": 24,
+        "actualHours": 12,
+        "progress": 50
+    },
+    {
+        "taskNo": "TSK-002",
+        "projectNo": "PRJ-002",
+        "taskName": "Loan Approval Workflow",
+        "description": "Implement approval stages and notifications",
+        "assignedTo": "Developer B",
+        "priority": "High",
+        "status": "In Progress",
+        "startDate": "2026-10-14",
+        "dueDate": "2026-10-25",
+        "estimatedHours": 40,
+        "actualHours": 18,
+        "progress": 45
+    },
+    {
+        "taskNo": "TSK-003",
+        "projectNo": "PRJ-003",
+        "taskName": "Customer Service UX",
+        "description": "Implement approved UX changes",
+        "assignedTo": "Developer C",
+        "priority": "Medium",
+        "status": "Review",
+        "startDate": "2026-10-12",
+        "dueDate": "2026-10-18",
+        "estimatedHours": 20,
+        "actualHours": 19,
+        "progress": 95,
+        "blocker": "Waiting for final customer review"
+    }
+]

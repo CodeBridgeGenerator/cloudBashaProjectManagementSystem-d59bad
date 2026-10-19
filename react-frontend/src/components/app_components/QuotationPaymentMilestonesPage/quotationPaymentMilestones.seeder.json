@@ -1,0 +1,29 @@
+[
+    {
+        "quoteNo": "QOT-001",
+        "milestone": "On Confirmation",
+        "percentage": 40,
+        "beforeTaxAmount": 72000,
+        "afterTaxAmount": 77760,
+        "paymentTerms": "30 Days",
+        "sequence": 1
+    },
+    {
+        "quoteNo": "QOT-001",
+        "milestone": "On User Test Acceptance",
+        "percentage": 30,
+        "beforeTaxAmount": 54000,
+        "afterTaxAmount": 58320,
+        "paymentTerms": "30 Days",
+        "sequence": 2
+    },
+    {
+        "quoteNo": "QOT-001",
+        "milestone": "On Go Live And Sign Off",
+        "percentage": 30,
+        "beforeTaxAmount": 54000,
+        "afterTaxAmount": 58320,
+        "paymentTerms": "30 Days",
+        "sequence": 3
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "serviceCode": "SRV-DEV",
+        "serviceName": "Custom Development",
+        "serviceCategory": "Development",
+        "billingType": "One Time",
+        "defaultUnit": "Day",
+        "defaultUnitPrice": 1300,
+        "currency": "MYR",
+        "active": true
+    },
+    {
+        "serviceCode": "SRV-MAINT",
+        "serviceName": "Support And Maintenance",
+        "serviceCategory": "Support",
+        "billingType": "Yearly",
+        "defaultUnit": "Year",
+        "defaultUnitPrice": 45000,
+        "currency": "MYR",
+        "active": true
+    },
+    {
+        "serviceCode": "SRV-HOST",
+        "serviceName": "Cloud Hosting",
+        "serviceCategory": "Infrastructure",
+        "billingType": "Monthly",
+        "defaultUnit": "Month",
+        "defaultUnitPrice": 500,
+        "currency": "MYR",
+        "active": true
+    }
+]

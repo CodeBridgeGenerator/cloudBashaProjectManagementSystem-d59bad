@@ -1,0 +1,53 @@
+[
+    {
+        "opportunityNo": "OPP-001",
+        "clientNo": "CLI-001",
+        "leadNo": "LD-002",
+        "opportunityName": "CodeBridge AI Platform Enhancement",
+        "requestType": "New Project",
+        "requestDate": 46305,
+        "contactName": "Alex Morgan",
+        "responsibleTo": "Sales Manager",
+        "estimatedValue": 180000,
+        "currency": "MYR",
+        "stage": "Proposal Requested",
+        "probability": 60,
+        "expectedCloseDate": 46341,
+        "outcome": "Open",
+        "nextAction": "Prepare proposal"
+    },
+    {
+        "opportunityNo": "OPP-002",
+        "clientNo": "CLI-002",
+        "opportunityName": "AISN Finance Management System",
+        "requestType": "New Project",
+        "requestDate": 46280,
+        "contactName": "Jamie Wilson",
+        "responsibleTo": "Sales Manager",
+        "estimatedValue": 250000,
+        "currency": "MYR",
+        "stage": "Won",
+        "probability": 100,
+        "expectedCloseDate": 46300,
+        "outcome": "Won",
+        "nextAction": "Create project and invoice"
+    },
+    {
+        "opportunityNo": "OPP-003",
+        "clientNo": "CLI-003",
+        "leadNo": "LD-003",
+        "opportunityName": "Etika Customer Service Enhancement",
+        "requestType": "Enhancement",
+        "requestDate": 46296,
+        "contactName": "Sam Brown",
+        "responsibleTo": "Sales Manager",
+        "estimatedValue": 35000,
+        "currency": "MYR",
+        "stage": "Lost",
+        "probability": 0,
+        "expectedCloseDate": 46315,
+        "outcome": "Lost",
+        "lostReason": "Budget not approved",
+        "nextAction": "Close opportunity"
+    }
+]

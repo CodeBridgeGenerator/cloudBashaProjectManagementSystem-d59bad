@@ -1,0 +1,53 @@
+[
+    {
+        "sMNo": "SM-001",
+        "customerNo": "CUS-001",
+        "projectNo": "PRJ-001",
+        "quoteNo": "QOT-SM-001",
+        "agreementTitle": "Codebridge Support And Maintenance",
+        "startDate": "2027-02-01",
+        "endDate": "2028-01-31",
+        "contractPeriod": "12 Months",
+        "paymentTerms": "30 Days",
+        "currency": "MYR",
+        "subTotal": 60000,
+        "taxRate": 8,
+        "finalAmount": 64800,
+        "status": "Scheduled",
+        "nextRenewalDate": "2028-02-01"
+    },
+    {
+        "sMNo": "SM-002",
+        "customerNo": "CUS-002",
+        "projectNo": "PRJ-002",
+        "quoteNo": "QOT-SM-002",
+        "agreementTitle": "AISN Finance Support And Maintenance",
+        "startDate": "2027-03-01",
+        "endDate": "2028-02-29",
+        "contractPeriod": "12 Months",
+        "paymentTerms": "30 Days",
+        "currency": "MYR",
+        "subTotal": 75000,
+        "taxRate": 8,
+        "finalAmount": 81000,
+        "status": "Scheduled",
+        "nextRenewalDate": "2028-03-01"
+    },
+    {
+        "sMNo": "SM-003",
+        "customerNo": "CUS-003",
+        "projectNo": "PRJ-003",
+        "quoteNo": "QOT-SM-003",
+        "agreementTitle": "Etika AIMS Support And Maintenance",
+        "startDate": "2026-12-01",
+        "endDate": "2027-11-30",
+        "contractPeriod": "12 Months",
+        "paymentTerms": "30 Days",
+        "currency": "MYR",
+        "subTotal": 45000,
+        "taxRate": 8,
+        "finalAmount": 48600,
+        "status": "Active",
+        "nextRenewalDate": "2027-12-01"
+    }
+]

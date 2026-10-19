@@ -1,0 +1,32 @@
+[
+    {
+        "workDate": "2026-10-18",
+        "employee": "Developer A",
+        "projectNo": "PRJ-001",
+        "taskNo": "TSK-001",
+        "hours": 7.5,
+        "workDone": "Completed dashboard layout and API integration",
+        "blockers": "None",
+        "nextPlan": "Complete project KPI cards"
+    },
+    {
+        "workDate": "2026-10-18",
+        "employee": "Developer B",
+        "projectNo": "PRJ-002",
+        "taskNo": "TSK-002",
+        "hours": 8,
+        "workDone": "Implemented first two approval stages",
+        "blockers": "None",
+        "nextPlan": "Add approval notifications"
+    },
+    {
+        "workDate": "2026-10-18",
+        "employee": "Developer C",
+        "projectNo": "PRJ-003",
+        "taskNo": "TSK-003",
+        "hours": 6,
+        "workDone": "Completed requested UX changes",
+        "blockers": "Waiting for customer review",
+        "nextPlan": "Fix review feedback"
+    }
+]

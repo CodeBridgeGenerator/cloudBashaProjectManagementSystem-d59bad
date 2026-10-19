@@ -1,0 +1,38 @@
+[
+    {
+        "quoteNo": "QOT-001",
+        "category": "Custom Development",
+        "serviceName": "Application Development",
+        "quantity": 60,
+        "unit": "Days",
+        "detailDescription": "Phase 1 application development",
+        "specification": "Web application modules and integrations",
+        "included": true,
+        "unitPrice": 3000,
+        "amount": 180000
+    },
+    {
+        "quoteNo": "QOT-002",
+        "category": "Custom Development",
+        "serviceName": "Finance Workflow Development",
+        "quantity": 100,
+        "unit": "Days",
+        "detailDescription": "Loan and finance workflow development",
+        "specification": "Application, approvals and document workflows",
+        "included": true,
+        "unitPrice": 2500,
+        "amount": 250000
+    },
+    {
+        "quoteNo": "QOT-003",
+        "category": "Custom Development",
+        "serviceName": "Customer Service UX Enhancement",
+        "quantity": 25,
+        "unit": "Days",
+        "detailDescription": "Improve customer service application UX",
+        "specification": "Workflow and interface improvements",
+        "included": true,
+        "unitPrice": 1400,
+        "amount": 35000
+    }
+]

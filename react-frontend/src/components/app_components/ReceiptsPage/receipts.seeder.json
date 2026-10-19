@@ -1,0 +1,32 @@
+[
+    {
+        "receiptNo": "RCT-001",
+        "paymentNo": "PAY-001",
+        "customerNo": "CUS-001",
+        "invoiceNo": "INV-001",
+        "receiptDate": "2026-10-20",
+        "amount": 77760,
+        "currency": "MYR",
+        "receiptFile": "/receipts/RCT-001.pdf"
+    },
+    {
+        "receiptNo": "RCT-002",
+        "paymentNo": "PAY-002",
+        "customerNo": "CUS-002",
+        "invoiceNo": "INV-002",
+        "receiptDate": "2026-10-18",
+        "amount": 54000,
+        "currency": "MYR",
+        "receiptFile": "/receipts/RCT-002.pdf"
+    },
+    {
+        "receiptNo": "RCT-003",
+        "paymentNo": "PAY-003",
+        "customerNo": "CUS-003",
+        "invoiceNo": "INV-003",
+        "receiptDate": "2026-11-10",
+        "amount": 37800,
+        "currency": "MYR",
+        "receiptFile": "/receipts/RCT-003.pdf"
+    }
+]
